@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.D2", "Aoc.D2\Aoc.D2.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.D3", "Aoc.D3\Aoc.D3.csproj", "{22DB6C8F-2399-4CC2-AEFA-69D969A200AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.D9", "Aoc.D9\Aoc.D9.csproj", "{76095032-64A1-40D0-82FA-74CD80299438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc.D9", "Aoc.D9\Aoc.D9.csproj", "{76095032-64A1-40D0-82FA-74CD80299438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc.D10", "Aoc.D10\Aoc.D10.csproj", "{99AE0500-4BC5-47F6-BE48-82CB48EAFB6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{76095032-64A1-40D0-82FA-74CD80299438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76095032-64A1-40D0-82FA-74CD80299438}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76095032-64A1-40D0-82FA-74CD80299438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AE0500-4BC5-47F6-BE48-82CB48EAFB6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AE0500-4BC5-47F6-BE48-82CB48EAFB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AE0500-4BC5-47F6-BE48-82CB48EAFB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AE0500-4BC5-47F6-BE48-82CB48EAFB6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
